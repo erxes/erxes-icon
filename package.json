@@ -1,0 +1,16 @@
+{
+    "name": "erxes-icon",
+    "version": "1.0.3",
+    "license": "MIT",
+    "description": "erxes - free and beautiful icons",
+    "authors": [
+        "Ganzorig Bayarsaikhan <ganzorig.b@nmma.co>"
+    ],
+    "keywords": [
+        "fonts",
+        "icon font",
+        "icons",
+        "web font",
+        "erxes"
+    ]
+}
