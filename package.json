@@ -3,6 +3,10 @@
     "version": "1.0.3",
     "license": "MIT",
     "description": "erxes - free and beautiful icons",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/erxes/erxes-icon"
+    },
     "authors": [
         "Ganzorig Bayarsaikhan <ganzorig.b@nmma.co>"
     ],
@@ -12,5 +16,9 @@
         "icons",
         "web font",
         "erxes"
-    ]
+    ],
+    "bugs": {
+        "url": "https://github.com/erxes/erxes-icon/issues"
+    },
+    "homepage": "https://erxes.io/"
 }
