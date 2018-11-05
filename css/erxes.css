@@ -1,11 +1,11 @@
 @font-face {
   font-family: 'erxes';
-  src: url('../font/erxes.eot?23334314');
-  src: url('../font/erxes.eot?23334314#iefix') format('embedded-opentype'),
-       url('../font/erxes.woff2?23334314') format('woff2'),
-       url('../font/erxes.woff?23334314') format('woff'),
-       url('../font/erxes.ttf?23334314') format('truetype'),
-       url('../font/erxes.svg?23334314#erxes') format('svg');
+  src: url('../font/erxes.eot?1659083');
+  src: url('../font/erxes.eot?1659083#iefix') format('embedded-opentype'),
+       url('../font/erxes.woff2?1659083') format('woff2'),
+       url('../font/erxes.woff?1659083') format('woff'),
+       url('../font/erxes.ttf?1659083') format('truetype'),
+       url('../font/erxes.svg?1659083#erxes') format('svg');
   font-weight: normal;
   font-style: normal;
 }
@@ -15,7 +15,7 @@
 @media screen and (-webkit-min-device-pixel-ratio:0) {
   @font-face {
     font-family: 'erxes';
-    src: url('../font/erxes.svg?23334314#erxes') format('svg');
+    src: url('../font/erxes.svg?1659083#erxes') format('svg');
   }
 }
 */
@@ -38,7 +38,7 @@
  
   /* fix buttons height, for twitter bootstrap */
   line-height: 1em;
- 
+
   /* you can be more comfortable with increased icons size */
   /* font-size: 120%; */
  
@@ -211,6 +211,7 @@
 .icon-usb:before { content: '\e89e'; }
 .icon-user-2:before { content: '\e89f'; }
 .icon-user:before { content: '\e8a0'; }
+.icon-comment-alt:before { content: '\e8a1'; }
 .icon-videocamera:before { content: '\e8a2'; }
 .icon-volume:before { content: '\e8a3'; }
 .icon-wallclock:before { content: '\e8a4'; }
@@ -265,6 +266,7 @@
 .icon-levels:before { content: '\e8d5'; }
 .icon-light-bulb:before { content: '\e8d6'; }
 .icon-like-1:before { content: '\e8d7'; }
+.icon-doc-text-inv-1:before { content: '\e8d8'; }
 .icon-login-1:before { content: '\e8d9'; }
 .icon-login-2:before { content: '\e8da'; }
 .icon-logout-1:before { content: '\e8db'; }
@@ -318,9 +320,11 @@
 .icon-sledge:before { content: '\e90b'; }
 .icon-speaker-1:before { content: '\e90c'; }
 .icon-speaker:before { content: '\e90d'; }
+.icon-attach-1:before { content: '\e90e'; }
 .icon-speech-bubble-2:before { content: '\e90f'; }
 .icon-speech-bubble-3:before { content: '\e910'; }
 .icon-speech-bubble-4:before { content: '\e911'; }
+.icon-instagram-2:before { content: '\e912'; }
 .icon-speech-bubble:before { content: '\e913'; }
 .icon-switch-1:before { content: '\e914'; }
 .icon-switch-3:before { content: '\e915'; }
@@ -425,6 +429,7 @@
 .icon-add:before { content: '\e9a2'; }
 .icon-minus-circle:before { content: '\e9a3'; }
 .icon-terminal:before { content: '\e9a4'; }
+.icon-messenger:before { content: '\e9a5'; }
 .icon-night:before { content: '\eb08'; }
 .icon-send:before { content: '\eb09'; }
 .icon-aligncenter-2:before { content: '\eb0a'; }
@@ -470,3 +475,18 @@
 .icon-gif-black:before { content: '\eb3c'; }
 .icon-gif-file:before { content: '\eb3d'; }
 .icon-attach:before { content: '\eb3e'; }
+.icon-twitter-1:before { content: '\f099'; }
+.icon-facebook-1:before { content: '\f09a'; }
+.icon-github-circled:before { content: '\f09b'; }
+.icon-mail-alt:before { content: '\f0e0'; }
+.icon-doc-inv:before { content: '\f15b'; }
+.icon-doc-text-inv:before { content: '\f15c'; }
+.icon-youtube-play:before { content: '\f16a'; }
+.icon-instagram-1:before { content: '\f16d'; }
+.icon-git:before { content: '\f1d3'; }
+.icon-wechat:before { content: '\f1d7'; }
+.icon-facebook-official:before { content: '\f230'; }
+.icon-whatsapp:before { content: '\f232'; }
+.icon-twitter-squared:before { content: '\f304'; }
+.icon-facebook-squared:before { content: '\f308'; }
+.icon-comment:before { content: '\f4ac'; }
